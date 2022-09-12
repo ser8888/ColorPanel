@@ -2,7 +2,7 @@
 //  ColorPanelApp.swift
 //  ColorPanel
 //
-//  Created by John Doe on 12/09/2022.
+//  Created by Sergejs Tiselskis on 12/09/2022.
 //
 
 import SwiftUI
